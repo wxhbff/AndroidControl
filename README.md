@@ -1,0 +1,2 @@
+# AndroidControl
+qtscrcpy控屏
